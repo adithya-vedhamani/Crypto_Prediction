@@ -4,21 +4,22 @@ The main objective of our project is to predict the price range of top 5 crypto 
 We have made 5 different notebooks for each crytocurrency
 
 ### Brief Description
+***
 Here is a breif description of how I trained my dataset :
-•  Import the required libraries and dataset
-•  Perform some basic data pre-processing and visualize the data
-o  Check for null values
-o  Plot Candlesticks
-o  Plot Histogram
-o  Plot Moving Average
-o  Monthwise record of the data
-o  Plot the monthwise data
-•  Split the model into train and test model using sklearn.model_selection
-•  Feature scaling of the model – MinMaxScalar (sklearn.preprocessing)
-•  Build the model – LSTM
-•  Fit the model
-•  Predict the values
-•  Visualize the predicted values
+*  Import the required libraries and dataset
+*  Perform some basic data pre-processing and visualize the data
+*  Check for null values
+*  Plot Candlesticks
+*  Plot Histogram
+*  Plot Moving Average
+*  Monthwise record of the data
+*  Plot the monthwise data
+*  Split the model into train and test model using sklearn.model_selection
+*  Feature scaling of the model – MinMaxScalar (sklearn.preprocessing)
+*   Build the model – LSTM
+*  Fit the model
+*  Predict the values
+*  Visualize the predicted values
 
 
 There are various types of neural network architectures. Depending on our task, the data we have at hand and the output we want to generate, we can choose or create different network architectures and design patterns. If our dataset contains images or pixels, then a Convolutional Neural Networks could be what you need. If we are trying to train a network on a sequence of inputs, then a Recurrent Neural Networks (RNN) might work. 
