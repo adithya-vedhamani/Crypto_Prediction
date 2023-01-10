@@ -11,3 +11,7 @@ We have made 5 different notebooks for each crytocurrency
 
 ### Exploratory Data Analysis of prediction of Top 5 CryptoCurrencies
 [Crypto CURRENCY PRICE PREDICTION.pdf](https://github.com/adithya-vedhamani/Crypto_Prediction/files/10381326/Crypto.CURRENCY.PRICE.PREDICTION.pdf)
+
+### Demo Video of Exploratory Data Analysis of prediction of Top 5 CryptoCurrencies
+https://user-images.githubusercontent.com/73640313/211520637-2312fdd1-1c14-496f-9faf-2645ff68e016.mp4
+
