@@ -26,6 +26,7 @@ There are various types of neural network architectures. Depending on our task, 
 RNNs are a kind of artificial neural network that achives really good results when your goal is to recognize patterns in sequences of data. And when working with text data any model that calculates the probability of the next character given the previous character is called a language model 1
 RNNs are very useful if our input is, for example, a corpus of text or a musical composition and we are trying to predict meaningful sequences out of it. Long Short-Term Memory networks, or LSTMs, are just a special type of RNN that can perform better when learning about “long-term dependencies".
 We have used LSTM to train our model
+We have also tried to predict the values using RandomForestTree.RandomForestTree returns doesn't return great accuracy like LSTM for our dataset.So we have chosen LSTM as our base for training the model
 
 ### Prediction Model
 ![image](https://user-images.githubusercontent.com/73640313/211518795-ab0fa419-daba-4f3d-9828-b491abe23e9a.png)
